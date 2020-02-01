@@ -107,7 +107,7 @@ export default class Splash extends Component {
                 </div>
               </div>
               <GoogleLogin
-                  clientId={'995736415176-i302e266c5arvdeg04sjdvmsft85lbin.apps.googleusercontent.com'}
+                  clientId={'86012310449-t6rkoq9hdkccigbp7co4t88a273esjig.apps.googleusercontent.com'}
                   onSuccess={this._responseGoogle}
                   onFailure={this._responseGoogle}
                   style={loginStyle}
